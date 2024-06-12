@@ -107,7 +107,7 @@ We welcome contributions to AutoTabML! Whether you're fixing bugs, adding new fe
 2. **Clone Your Fork**: Clone your fork to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/Sakalya100/AutoTabML.git
+    git clone https://github.com/shalusingh-tech/AutoTabML.git
     cd AutoTabML
     ```
 
