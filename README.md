@@ -158,7 +158,8 @@ If you find a bug or have an idea for a new feature, please open an issue:
 
 ## Contributors
 
-[<img src="https://github.com/shalusingh-tech.png" width="60px;"/>](https://github.com/shalusingh-tech)  [<img src="https://github.com/Sakalya100.png" width="60px;"/>](https://github.com/Sakalya100)   ![image](https://github.com/shalusingh-tech/AutoTabML/assets/68162265/f7de77a8-02dd-4f69-b029-92a2c0806edf)
+[<img src="https://github.com/shalusingh-tech.png" width="60px;"/>](https://github.com/shalusingh-tech)  [<img src="https://github.com/Sakalya100.png" width="60px;"/>](https://github.com/Sakalya100)   ![image](https://github.com/shalusingh-tech/AutoTabML/assets/68162265/f7de77a8-02dd-4f69-b029-92a2c0806edf) ![image](https://github.com/shalusingh-tech/AutoTabML/assets/68162265/d5922f20-f5d8-4142-a9bb-857bcd6870e1)
+
 
   
 
