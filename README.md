@@ -50,7 +50,7 @@ https://github.com/Sakalya100/AutoTabML/assets/70064084/6ffcc9c5-4a8e-4d8b-b9f6-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sakalya100/AutoTabML.git
+   git clone https://github.com/shalusingh-tech/AutoTabML.git
    cd AutoTabML
    ```
 
